@@ -1,0 +1,12 @@
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\bin\Debug\net8.0\CustomerRegistration.Domain.deps.json
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\bin\Debug\net8.0\CustomerRegistration.Domain.dll
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\bin\Debug\net8.0\CustomerRegistration.Domain.pdb
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.csproj.AssemblyReference.cache
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.AssemblyInfoInputs.cache
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.AssemblyInfo.cs
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.dll
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\refint\CustomerRegistration.Domain.dll
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\CustomerRegistration.Domain.pdb
+C:\Users\grigo\source\repos\CustomerRegistration.API\CustomerRegistration.Domain\obj\Debug\net8.0\ref\CustomerRegistration.Domain.dll

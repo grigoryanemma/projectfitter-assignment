@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|solutionrelative:customerregistration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\dtos\\customerregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\dtos\\customerregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|solutionrelative:customerregistration.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\interfaces\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\interfaces\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06251680-D65C-4BC7-A8A4-9A906279F9FD}|CustomerRegistration.Domain\\CustomerRegistration.Domain.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06251680-D65C-4BC7-A8A4-9A906279F9FD}|CustomerRegistration.Domain\\CustomerRegistration.Domain.csproj|solutionrelative:customerregistration.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|solutionrelative:customerregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|solutionrelative:customerregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\dtos\\baserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\dtos\\baserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\common\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\common\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\common\\enums\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\common\\enums\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\common\\constants\\validationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\common\\constants\\validationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\common\\constants\\apphttpheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\common\\constants\\apphttpheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.infrastructure\\respositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|solutionrelative:customerregistration.infrastructure\\respositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|solutionrelative:customerregistration.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.application\\interfaces\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66C54B7-28F7-4C53-862C-F9526E32DCA2}|CustomerRegistration.Application\\CustomerRegistration.Application.csproj|solutionrelative:customerregistration.application\\interfaces\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.api\\customerregistration.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{96B188CE-3D24-474A-A6F0-630E77EF4AC1}|CustomerRegistration.API\\CustomerRegistration.API.csproj|solutionrelative:customerregistration.api\\customerregistration.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.infrastructure\\customerregistration.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|solutionrelative:customerregistration.infrastructure\\customerregistration.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|c:\\users\\grigo\\source\\repos\\customerregistration.api\\customerregistration.infrastructure\\migrations\\20250207105613_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B33E7A-67A8-4AE2-8304-88259DA266B8}|CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj|solutionrelative:customerregistration.infrastructure\\migrations\\20250207105613_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:34:40.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "CustomerRegistration.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:37:31.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerRegistration.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAHsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:32:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\CustomerRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\DTOs\\CustomerRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\CustomerRegistrationDTO.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\DTOs\\CustomerRegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:13:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Interfaces\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Interfaces\\Service\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Interfaces\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Interfaces\\Service\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:11:44.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerRegistration.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\appsettings.json",
+              "RelativeToolTip": "CustomerRegistration.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T08:28:50.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.API\\Program.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\Program.cs",
+              "RelativeToolTip": "CustomerRegistration.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:20:12.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerificationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\VerificationDTO.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\DTOs\\VerificationDTO.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\VerificationDTO.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\DTOs\\VerificationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:31:40.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CustomerRegistration.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:43:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HashingService.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Security\\HashingService.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Security\\HashingService.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Security\\HashingService.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Security\\HashingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:34:29.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\BaseRequestDTO.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\DTOs\\BaseRequestDTO.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\DTOs\\BaseRequestDTO.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\DTOs\\BaseRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:29:45.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHashingService.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Security\\IHashingService.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Security\\IHashingService.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Security\\IHashingService.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Security\\IHashingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:23:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Utilities\\Utility.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Common\\Utilities\\Utility.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Utilities\\Utility.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Common\\Utilities\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:18:01.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Enums\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Common\\Enums\\ErrorCode.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Enums\\ErrorCode.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Common\\Enums\\ErrorCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:17:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationMessages.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Constants\\ValidationMessages.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Common\\Constants\\ValidationMessages.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Constants\\ValidationMessages.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Common\\Constants\\ValidationMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:41:40.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Respositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Infrastructure\\Respositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Respositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerRegistration.Infrastructure\\Respositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:46:14.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppHttpHeaders.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Constants\\AppHttpHeaders.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Common\\Constants\\AppHttpHeaders.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Common\\Constants\\AppHttpHeaders.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Common\\Constants\\AppHttpHeaders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:16:43.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CustomerRegistration.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:25:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Interfaces\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Application\\Interfaces\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Application\\Interfaces\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerRegistration.Application\\Interfaces\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:23:44.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRegistration.API.http",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\CustomerRegistration.API.http",
+              "RelativeDocumentMoniker": "CustomerRegistration.API\\CustomerRegistration.API.http",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.API\\CustomerRegistration.API.http",
+              "RelativeToolTip": "CustomerRegistration.API\\CustomerRegistration.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-07T12:10:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250207105613_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Migrations\\20250207105613_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Infrastructure\\Migrations\\20250207105613_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\Migrations\\20250207105613_InitialCreate.cs",
+              "RelativeToolTip": "CustomerRegistration.Infrastructure\\Migrations\\20250207105613_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:56:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRegistration.Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "CustomerRegistration.Domain\\obj\\Debug\\net8.0\\CustomerRegistration.Domain.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:25:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerRegistration.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj",
+              "RelativeToolTip": "CustomerRegistration.Infrastructure\\CustomerRegistration.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T08:16:55.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

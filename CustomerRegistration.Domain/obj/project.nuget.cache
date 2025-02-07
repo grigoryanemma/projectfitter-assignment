@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKqAJTTQOb9SnDFCZMQbfkaXRRoXIWhouiZ8dDye++tW6P4H28RqfBw0qmwlxpK3dPwe+JxL290j3s1Wnd5iiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grigo\\source\\repos\\CustomerRegistration.API\\CustomerRegistration.Domain\\CustomerRegistration.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
